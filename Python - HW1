@@ -1,0 +1,13 @@
+x="ödevi"
+print(f'Python {x}')
+a=str(input("Adınızı giriniz: "))
+b=str(input("Cinsiyetinizi giriniz: "))
+c=int(input("Yaşınızı giriniz: "))
+d=float(input("Boyunuzu metre cinsinden giriniz: "))
+e=float(input("Kilonuzu giriniz: "))
+print(" Adınız: {}\nCinsiyetiniz: {}\nYaşınız: {}\nBoyunuz: {}\nKilonuz: {}".format(a,b,c,d,e))
+print("a'nın tipi:",type(a))
+print("b'nın tipi:",type(b))
+print("c'nın tipi:",type(c))
+print("d'nın tipi:",type(d))
+print("e'nın tipi:",type(e))
