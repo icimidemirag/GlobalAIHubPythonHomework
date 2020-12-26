@@ -1,6 +1,6 @@
 import time 
 import sys 
-from decimal import Decimal 
+from decimal import Decimal
 
 test=0
 
